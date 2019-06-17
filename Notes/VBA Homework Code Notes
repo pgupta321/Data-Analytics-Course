@@ -1,0 +1,38 @@
+sub NextCells
+
+dim firstrow as string
+dim total as integer
+dim writeToRow as integer (writeToRow is designating the row where new totals will be recorded in a different place)
+writeToRow = 2
+
+firstrow = Range("A2").value
+total = Range("B2").value
+
+dim row as integer
+
+
+'this is the rest of the spreadsheet below
+
+lastRow  = ActiveSheet.Cells(ActiveSheet.Rows.Count, "A").End(xlUp).row
+
+For row = 3 to lastRow + 1 (this number should be the number of rows + 1)
+
+	'this is if the next row is the same
+	if cells(row, 1).value = firstrow then
+		total = total + cells(row, 2).value
+		
+		
+	Else 'this is if the next row is different
+		'this documents the total from the previous section and records it somewhere else in the sheet
+		Cells(writeToRow,4).value = firstrow
+		Cells(writeToRow,5).value = total
+		
+		'the next "writeToRow"
+		writeToRow = writeToRow + 1
+	
+	'this is if the next row is different - starts the next section
+		firstrow = Cells(row, 1).value
+		total = cells(row, 2).value
+	End if
+
+Next row 
