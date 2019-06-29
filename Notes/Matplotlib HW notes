@@ -5,6 +5,13 @@ percent changes:
 	do data munging to have columns for each drug, then do:
 	(df.iloc[-1, :] - df.iloc[0, :]) / df.iloc[0, :]
 	last tumor volume - first tumor volume divided by first tumor volume
-	
-numbers for standard error for tumor sizes are not matching up with answer
-	
+
+	for drug, color, marker in drug_zip:
+    plt.scatter(pivot_mean_metsite_data_df.index,         # x-values from index (timepoint is the index)
+                 pivot_mean_metsite_data_df[drug],         # y-values from tumor volume of that drug
+                 yerr = pivot_sem_metsites_df[drug],       # standard error for that drug
+                 color = color,                            # color from zipped tuples
+                 marker = marker,                          # marker from zipped tuples
+                 linestyle = '--',
+                 capthick = 1,                             # for caps on error bars
+                 capsize = 3)
