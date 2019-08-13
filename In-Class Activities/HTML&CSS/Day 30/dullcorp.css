@@ -1,0 +1,21 @@
+h1 {text-align: center;
+    color: rebeccapurple;
+}
+
+h2 {
+    color: royalblue;
+}
+h3 {text-align: center;
+    color: orchid}
+
+img {
+    box-shadow: 10px 10px 5px grey;
+}
+
+section {
+    background-color: lightseagreen;
+}
+
+ul {
+    border-style: dotted;
+}
