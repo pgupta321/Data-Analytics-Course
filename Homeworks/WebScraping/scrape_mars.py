@@ -50,6 +50,7 @@ def featured_image(browser):
     full_image = browser.find_by_id('full_image')
     full_image.click()
 
+    browser.is_element_present_by_text("more info", wait_time=1)
     more_info = browser.find_link_by_partial_text('more info')
     more_info.click()
 
