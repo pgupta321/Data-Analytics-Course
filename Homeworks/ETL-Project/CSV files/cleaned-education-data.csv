@@ -1,0 +1,98 @@
+iso3_code,country,total_percent,male_percent,female_percent
+AFG,Afghanistan,24.0,33.0,15.0
+ALB,Albania,46.0,47.0,44.0
+DZA,Algeria,38.0,30.0,47.0
+ARG,Argentina,59.0,53.0,66.0
+ARM,Armenia,93.0,88.0,96.0
+BGD,Bangladesh,28.0,31.0,26.0
+BRB,Barbados,94.0,91.0,97.0
+BLR,Belarus,97.0,96.0,98.0
+BLZ,Belize,22.0,20.0,25.0
+BEN,Benin,15.0,22.0,9.0
+BTN,Bhutan,21.0,25.0,18.0
+BOL,Bolivia (Plurinational State of),60.0,63.0,57.0
+BIH,Bosnia and Herzegovina,92.0,92.0,92.0
+BRA,Brazil,59.0,53.0,64.0
+BFA,Burkina Faso,4.0,6.0,2.0
+BDI,Burundi,3.0,4.0,2.0
+KHM,Cambodia,20.0,20.0,20.0
+CMR,Cameroon,15.0,18.0,12.0
+CAF,Central African Republic,7.0,8.0,6.0
+TCD,Chad,10.0,15.0,6.0
+COL,Colombia,66.0,62.0,69.0
+COM,Comoros,28.0,24.0,32.0
+COG,Congo,17.0,20.0,15.0
+CRI,Costa Rica,47.0,38.0,56.0
+CIV,Côte d'Ivoire,14.0,17.0,11.0
+CUB,Cuba,83.0,81.0,86.0
+COD,Democratic Republic of the Congo,25.0,30.0,21.0
+DOM,Dominican Republic,57.0,48.0,66.0
+EGY,Egypt,70.0,71.0,69.0
+ETH,Ethiopia,13.0,13.0,12.0
+GAB,Gabon,11.0,11.0,11.0
+GMB,Gambia,28.0,28.0,28.0
+GHA,Ghana,38.0,42.0,35.0
+GTM,Guatemala,26.0,27.0,25.0
+GIN,Guinea,15.0,23.0,10.0
+GNB,Guinea-Bissau,9.0,11.0,8.0
+GUY,Guyana,56.0,49.0,64.0
+HTI,Haiti,10.0,12.0,9.0
+HND,Honduras,30.0,27.0,33.0
+IND,India,25.0,29.0,21.0
+IDN,Indonesia,50.0,52.0,48.0
+IRQ,Iraq,35.0,37.0,32.0
+JAM,Jamaica,82.0,80.0,83.0
+JOR,Jordan,59.0,51.0,67.0
+KAZ,Kazakhstan,95.0,95.0,96.0
+KEN,Kenya,41.0,44.0,38.0
+KGZ,Kyrgyzstan,83.0,82.0,85.0
+LAO,Lao People's Democratic Republic,25.0,25.0,24.0
+LSO,Lesotho,24.0,20.0,27.0
+LBR,Liberia,13.0,18.0,9.0
+MDG,Madagascar,6.0,6.0,6.0
+MWI,Malawi,14.0,15.0,13.0
+MDV,Maldives,13.0,16.0,12.0
+MLI,Mali,8.0,12.0,5.0
+MRT,Mauritania,13.0,18.0,10.0
+MEX,Mexico,23.0,25.0,22.0
+MNG,Mongolia,71.0,64.0,78.0
+MNE,Montenegro,86.0,84.0,87.0
+MOZ,Mozambique,6.0,8.0,4.0
+MMR,Myanmar,16.0,13.0,18.0
+NAM,Namibia,36.0,33.0,39.0
+NPL,Nepal,24.0,28.0,21.0
+NER,Niger,2.0,4.0,1.0
+NGA,Nigeria,49.0,57.0,42.0
+PAK,Pakistan,36.0,40.0,32.0
+PAN,Panama,63.0,57.0,68.0
+PER,Peru,75.0,78.0,72.0
+PHL,Philippines,67.0,59.0,76.0
+MDA,Republic of Moldova,69.0,63.0,74.0
+RWA,Rwanda,17.0,19.0,16.0
+LCA,Saint Lucia,80.0,70.0,90.0
+STP,Sao Tome and Principe,12.0,12.0,12.0
+SEN,Senegal,9.0,14.0,6.0
+SRB,Serbia,76.0,71.0,81.0
+SLE,Sierra Leone,20.0,25.0,16.0
+ZAF,South Africa,50.0,46.0,55.0
+SSD,South Sudan,8.0,13.0,4.0
+PSE,State of Palestine,62.0,52.0,73.0
+SDN,Sudan,31.0,34.0,29.0
+SUR,Suriname,18.0,14.0,22.0
+SWZ,Swaziland,28.0,27.0,29.0
+TJK,Tajikistan,62.0,78.0,50.0
+THA,Thailand,55.0,52.0,58.0
+MKD,The former Yugoslav Republic of Macedonia,74.0,80.0,69.0
+TLS,Timor-Leste,28.0,28.0,29.0
+TGO,Togo,15.0,20.0,10.0
+TUN,Tunisia,42.0,36.0,49.0
+TUR,Turkey,53.0,58.0,48.0
+TKM,Turkmenistan,81.0,83.0,80.0
+UGA,Uganda,15.0,18.0,13.0
+UKR,Ukraine,97.0,97.0,97.0
+TZA,United Republic of Tanzania,29.0,32.0,27.0
+URY,Uruguay,35.0,45.0,28.0
+VNM,Viet Nam,56.0,50.0,61.0
+YEM,Yemen,30.0,37.0,23.0
+ZMB,Zambia,28.0,34.0,23.0
+ZWE,Zimbabwe,10.0,12.0,8.0
